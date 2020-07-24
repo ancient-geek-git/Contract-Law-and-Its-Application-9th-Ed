@@ -13,7 +13,7 @@ These html files are also easier to use than a scanned pdf of the book. An html 
 
 Clcking on footnotes and other navigation links within the document will jump you to the referenced section. There are also separate TOC and Index files; clicking on a page number hyperlink from one of these files will first open the html of the whole book and then jump to the page you selected.  
 
-No annotation tools -- that's something you'd have to use the publishers' websites for.
+No annotation tools—that's something you'd have to use the publishers' websites for.
 
 # Caution
 
